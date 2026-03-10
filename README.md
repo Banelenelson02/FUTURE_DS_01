@@ -26,3 +26,6 @@ The goal of this project is to analyze business sales data to identify revenue t
 1. **Inventory Management:** Prepare inventory for "Paper Craft" and "Ceramic Top Storage Jars" well in advance of the Q4 holiday spike to prevent stockouts.
 2. **Marketing Focus:** Since mid-range and budget items drive over 90% of revenue, marketing campaigns should focus on bundling these low-cost items to increase the average order value.
 3. **International Expansion:** Consider localized marketing or reduced shipping thresholds for the Netherlands, EIRE, and Germany to further boost these strong secondary markets.
+
+   This are is how i did my project
+   ![Loading and exploring the data] (first.png)
