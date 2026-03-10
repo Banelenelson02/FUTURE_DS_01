@@ -28,4 +28,6 @@ The goal of this project is to analyze business sales data to identify revenue t
 3. **International Expansion:** Consider localized marketing or reduced shipping thresholds for the Netherlands, EIRE, and Germany to further boost these strong secondary markets.
 
    This are is how i did my project
-   ![Loading and exploring the data] (first.png)
+   ![1 Loading and exploring the data]
+   
+<img width="1395" height="784" alt="first" src="https://github.com/user-attachments/assets/d8de436f-c05d-4828-8f86-368b727b9c0f" />
