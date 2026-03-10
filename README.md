@@ -27,19 +27,12 @@ The goal of this project is to analyze business sales data to identify revenue t
 2. **Marketing Focus:** Since mid-range and budget items drive over 90% of revenue, marketing campaigns should focus on bundling these low-cost items to increase the average order value.
 3. **International Expansion:** Consider localized marketing or reduced shipping thresholds for the Netherlands, EIRE, and Germany to further boost these strong secondary markets.
 
-   This are is how i did my project
-   
-   [1 Loading and exploring the data]
+   These are the pictues of my project
    
 <img width="1395" height="784" alt="first" src="https://github.com/user-attachments/assets/d8de436f-c05d-4828-8f86-368b727b9c0f" />
-
-[2. exploring the data]
 <img width="1395" height="784" alt="second" src="https://github.com/user-attachments/assets/2332de1c-93d8-4849-90d1-5dbccf034de9" />
-[3. Revenue trend over time]
 <img width="1395" height="784" alt="third" src="https://github.com/user-attachments/assets/bc86dace-321a-41fa-9baa-b8bd01759372" />
-4. Top 10 products products by sales
 <img width="1395" height="784" alt="forth" src="https://github.com/user-attachments/assets/734dad26-568e-45dc-859c-5caea3e0816f" />
-5. Regional Performance
 <img width="1395" height="784" alt="fifth" src="https://github.com/user-attachments/assets/85e7174e-f040-44b3-8caf-17ca064a79ee" />
 <img width="1395" height="784" alt="sixth2" src="https://github.com/user-attachments/assets/372c2321-fdd9-48c1-8321-5ab4bc604819" />
 <img width="1395" height="784" alt="seventh" src="https://github.com/user-attachments/assets/d0eacb22-e9f0-4376-bc95-51a6039e82f7" />
